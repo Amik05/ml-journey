@@ -12,3 +12,9 @@
 **Session 2** [03/30/2026]
 
 - Added a streaming feature to the chatbot
+
+**Session 3** [03/31/2026]
+
+- experimented with temperatures
+- system prompt personas and constraints
+- max tokens, window contexts
