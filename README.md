@@ -8,3 +8,7 @@
 
 - Set up venv, installed dependencies, made first raw Anthropic API call, got successful response.
 - Build raw API chatbot with conversation history and watched the context window grow in real time.
+
+**Session 2** [03/30/2026]
+
+- Added a streaming feature to the chatbot
