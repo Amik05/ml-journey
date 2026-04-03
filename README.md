@@ -18,3 +18,8 @@
 - experimented with temperatures
 - system prompt personas and constraints
 - max tokens, window contexts
+
+**Session 4** [04/2/2026]
+
+- Started Adrej Karpathy Let's build GPT from scratch video
+- Created the simple tokenizer which encodes single chars
